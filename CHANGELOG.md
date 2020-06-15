@@ -4,29 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
-## [20.07] - YYYY-MM-DD
+## [20.06] - YYYY-MM-DD
 
 ### Added
 
--
-
-### Changed
-
-- 
-
-### Removed
-
-- 
-
-### Fixed
-
-- `LanguageModelingDataset` ([#841](https://github.com/catalyst-team/catalyst/pull/841))
-
-## [20.06] - 2020-06-04
-
-### Added
-
-- `Mergify` ([#831](https://github.com/catalyst-team/catalyst/pull/831))
 - `PerplexityMetricCallback` ([#819](https://github.com/catalyst-team/catalyst/pull/819))
 - `PeriodicLoaderRunnerCallback` ([#818](https://github.com/catalyst-team/catalyst/pull/818))
 
@@ -44,6 +25,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 ### Fixed
 
+- .dependabot/config.yml contained invalid details ([#781](https://github.com/catalyst-team/catalyst/issues/781))
 - added missed dashes in docker perfixes ([#828](https://github.com/catalyst-team/catalyst/issues/828))
 
 
